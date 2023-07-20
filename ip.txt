@@ -1,0 +1,90 @@
+**********
+IP:2409:40d4:106b:142a:8000::
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Navi Mumbai"
+"zipcode":"400701"
+"latitude":"19.12418"
+"longitude":"73.00551"
+"isp":"Reliance Jio Infocomm Limited"
+"organization":"Reliance Jio Infocomm Limited"
+**********
+
+**********
+IP:2409:40d4:106b:142a:8000::
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Navi Mumbai"
+"zipcode":"400701"
+"latitude":"19.12418"
+"longitude":"73.00551"
+"isp":"Reliance Jio Infocomm Limited"
+"organization":"Reliance Jio Infocomm Limited"
+**********
+
+**********
+IP:2402:3a80:1a35:fd3e:37f5:76eb:c7a8:d7cc
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Mumbai"
+"zipcode":"400030"
+"latitude":"19.01615"
+"longitude":"72.81860"
+"isp":"Vodafone Idea Ltd. (VIL)"
+"organization":""
+**********
+
+**********
+IP:2409:40d4:106b:142a:8000::
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Navi Mumbai"
+"zipcode":"400701"
+"latitude":"19.12418"
+"longitude":"73.00551"
+"isp":"Reliance Jio Infocomm Limited"
+"organization":"Reliance Jio Infocomm Limited"
+**********
+
+**********
+IP:2409:40d4:106b:142a:8000::
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Navi Mumbai"
+"zipcode":"400701"
+"latitude":"19.12418"
+"longitude":"73.00551"
+"isp":"Reliance Jio Infocomm Limited"
+"organization":"Reliance Jio Infocomm Limited"
+**********
+
+**********
+IP:2409:40d4:b:8c31:8000::
+Routable:True
+"continent_name":"Asia"
+"country_name":"India"
+"state_prov":"Maharashtra"
+"district":""
+"city":"Navi Mumbai"
+"zipcode":"400701"
+"latitude":"19.12418"
+"longitude":"73.00551"
+"isp":"Reliance Jio Infocomm Limited"
+"organization":"Reliance Jio Infocomm Limited"
+**********
+

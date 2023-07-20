@@ -1,0 +1,15 @@
+#history_store{
+    display: flexbox;
+    width: 70vw;
+    height: 20vh;
+    margin: 10px;
+    border: 1px gray solid;
+    border-radius: 3px;
+    /* white-space: nowrap; */
+    overflow-y: scroll;
+}
+
+#p_{
+    margin: 10px;
+}
+

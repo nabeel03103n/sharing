@@ -1,0 +1,21 @@
+<script>
+
+   var IPGeolocationAPI = require('ip-geolocation-api-javascript-sdk');
+    var ipgeolocationApi = new IPGeolocationAPI("6691a38b67f74a94a6423ee3fc4fb49d", false); 
+
+    function handleResponse(json) {
+    console.log(json);
+}
+
+
+var GeolocationParams = require('ip-geolocation-api-javascript-sdk/GeolocationParams.js');
+
+// Get complete geolocation for the calling machine's IP address
+ipgeolocationApi.getGeolocation(handleResponse);
+
+// Get complete geolocation in Russian** for IP address (1.1.1.1)
+var geolocationParams = new GeolocationParams();
+geolocationParams.setIPAddress('1.1.1.1');
+geolocationParams.setLang('ru');
+
+</script>

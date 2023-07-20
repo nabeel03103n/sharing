@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up!</title>
+</head>
+<body>
+
+    <center>
+        
+        <form style="margin-top: 30%;" method="post">
+            {% csrf_token %}
+
+            <label for="name">Name: </label>
+            <input placeholder="Enter your name" name="name" type="text" id="name">
+            <input type="submit" id="submit" onclick="n()">
+            
+        </form>
+        
+    </center>
+</body>
+
+<script>
+
+    n = () => {
+        open("/home")
+    }
+    
+</script>
+
+</html>

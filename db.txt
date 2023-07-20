@@ -1,0 +1,1 @@
+image 8/8 D:\TEST\PYTHON\Chanakya\mydjango\chattbot\object\yolov5\data\images\zidane.jpg: 384x640 2 persons, 2 ties, 417.9ms
